@@ -1,0 +1,56 @@
+body {
+    font-family: 'Source Serif Pro', serif;
+}
+
+header div {
+    background-image: url(../img/lasReliquiasDeLaMuerte.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+h1 {
+    background-color: #a50707;
+    text-align: center;
+    letter-spacing: 10px;
+    color: #ceae21;
+    margin: 0 0 133px 0;
+    padding: 14px 0 16px 0;
+    text-transform: uppercase;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+h3 {
+    background-color:  #a50707;
+    color: #ceae21;
+    text-transform: uppercase;
+    padding: 5px;
+}
+
+.resaltado {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.indentado {
+    margin-left: 75px;
+}
+
+footer p {
+    background-color: #a50707;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    padding: 11px 0 9px 0;
+    color:#ceae21;
+    font-size: 20px;
+}
+
+footer p img {
+    margin-left: 26px;
+}
+
