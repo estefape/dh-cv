@@ -1,0 +1,50 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header div {
+    background-color: #E5E5E5;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+h1 {
+    background-color: #C4C4C4;
+    text-align: center;
+    letter-spacing: 10px;
+    color: #005677;
+    margin: 0 0 133px 0;
+    padding: 14px 0 16px 0;
+    text-transform: uppercase;
+}
+
+h3 {
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+}
+
+.resaltado {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 15px;
+}
+
+.indentado {
+    margin-left: 75px;
+}
+
+footer p {
+    background-color: #005677;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0;
+    padding: 11px 0 9px 0;
+    color: #fff;
+    font-size: 20px;
+}
+
+footer p img {
+    margin-left: 26px;
+}
+
